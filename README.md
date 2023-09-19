@@ -1,6 +1,6 @@
 # Car Customization Console App
-* This is a  fun project that was made while waiting in between the classes to see what I can do with arrays.
-* You can also download the code and add your own car types and also play with the arrays too.
+* This is a  fun project that was made while waiting in between the classes to see what I could do with arrays.
+* You can also download the code, add your own car types, and also play with the arrays too.
 * Customizable design.
 
 # About The Project
@@ -9,3 +9,4 @@
 * If I had enough time I would also try to implement a car visual in the console with the color given by you.
 
   # THANK YOU
+  * Thank you for reading and checking my project out.
