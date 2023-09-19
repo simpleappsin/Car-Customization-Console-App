@@ -8,5 +8,5 @@
 * I did not have an idea about what to do before I started and while I was sitting my university's engineering building I was watching outside and the colorful passing car gave me this idea.
 * If I had enough time I would also try to implement a car visual in the console with the color given by you.
 
-  # THANK YOU
-  * Thank you for reading and checking my project out.
+# THANK YOU
+* Thank you for reading and checking my project out.
